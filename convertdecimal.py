@@ -1,0 +1,6 @@
+decimal=int(input("Enter anu number: "))
+print("Convertion of binary number",decimal,"is:")
+print(hex(decimal))
+print(oct(decimal))
+print(bin(decimal))
+# print((decimal))
